@@ -1,0 +1,28 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1781878243
+export_presets.cfg::TextFile::-1::1781878243::0::1::::<><><>0<>0<><>::
+icon.webp::CompressedTexture2D::27118964165343846::1781531195::1781531302::1::::<><><>0<>0<>d1498e266395186d04e973f787f3596d<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+main.gd::GDScript::4982184209173222137::1781874181::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::1940543232055977835::1781878119::0::1::::<><><>0<>0<><>::uid://cc8n3086pvl18::::res://main.gd<>uid://ceuu150fmggvr::::res://player.tscn<>uid://defdm2qdva75q::::res://mob.tscn<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://bq4lq2wbf1rkc::::res://score_label.gd
+mob.gd::GDScript::6924879768536141194::1781877646::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::7450544337918621628::1781877142::0::1::::<><><>0<>0<><>::uid://bicorb7we351t::::res://art/mob.glb<>uid://c5wp01kn08qxe::::res://mob.gd
+player.gd::GDScript::5693221398705431802::1781876378::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::5096146682080455107::1781876378::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://cnd3r3qyfy5so::::res://player.gd
+music_player.tscn::PackedScene::8717211197418034313::1781874492::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+score_label.gd::GDScript::3570007048561572186::1781874172::0::1::::<>Label<><>0<>0<><>::
+::res://art/::1781531303
+body.tres::StandardMaterial3D::-1::1781531195::0::1::::<><><>0<>0<><>::
+eye.tres::StandardMaterial3D::-1::1781531195::0::1::::<><><>0<>0<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6912470962729766485::1781531195::1781531302::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene::2952940687663745631::1781531195::1781531303::1::::<><><>0<>0<>943020a3af25cee7ab36f3d953033e5d<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.tres::StandardMaterial3D::-1::1781531195::0::1::::<><><>0<>0<><>::
+mob_eye.tres::StandardMaterial3D::-1::1781531195::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene::8964461739428881931::1781531195::1781531303::1::::<><><>0<>0<>a78ee2d8f7aa443b1c94ccbc80947510<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.tres::StandardMaterial3D::-1::1781531195::0::1::::<><><>0<>0<><>::
+::res://fonts/::1781531302
+LICENSE.txt::TextFile::-1::1781531195::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile::6505293508080888906::1781531195::1781531302::1::::<><><>0<>0<>1eb268033ecd125d99a1f1687f4c989d<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+::res://test/::1781878242
+Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D::1995011794769739443::1781878242::1781878259::1::::<><><>0<>0<>2b2c7dd740a49cc5449d4c8743bd151b<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-79d11dbac4b955bb6046340c18b72d07.ctex::
+Squash the Creeps (3D).icon.png::CompressedTexture2D::6979681508718921613::1781878242::1781878259::1::::<><><>0<>0<>ef17ad7cacb64a85e0b9f66e6168f9d0<>res://.godot/imported/Squash the Creeps (3D).icon.png-38445a2a5e4b48aa640a126ac95d9e81.ctex::
+Squash the Creeps (3D).png::CompressedTexture2D::5135831885976737830::1781878242::1781878259::1::::<><><>0<>0<>37ba7a8d97264ba2145d91bddb2f5eff<>res://.godot/imported/Squash the Creeps (3D).png-0013cb4a482e6231792825da35d262e4.ctex::
